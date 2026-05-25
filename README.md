@@ -2,12 +2,12 @@
 
 A project workspace.
 
-## Geting Started
+## Getting Started
 
 1. Clone the repository
-2. Install dependancies
+2. Install dependencies
 3. Run the project
 
 ## Contributing
 
-Pull requests are welcom. For major changes, please open an issue first.
+Pull requests are welcome. For major changes, please open an issue first.
